@@ -29,8 +29,8 @@ import {
     scrollToTop,
     slugify,
     unslugify,
+    uuid,
 } from "ts-utils-julseb"
-import { v4 as uuid } from "uuid"
 
 export {
     calculateAverage,
